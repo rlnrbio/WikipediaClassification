@@ -19,3 +19,6 @@ logisticRegression.py: More detailed analysis including feature importance of lo
 randomForest.py: More detailed analysis including feature importance of random Forest classification
 
 gloveModel.py: Script to run a more complex Glove (W2V derivate) and DNN classification model
+
+
+You also find the final report presenting the initial results of the project.
