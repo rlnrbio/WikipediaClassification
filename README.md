@@ -9,7 +9,7 @@ It is an example for the implementation of a simple, stand alone pipeline from d
 ## Code
 - [parsing.py](https://github.com/rlnrbio/WikipediaClassification/blob/main/parsing.py): Parse data from Wikipedia data dump, data available from https://dumps.wikimedia.org/enwiki/20210901/
 - [dataloading.py](https://github.com/rlnrbio/WikipediaClassification/blob/main/dataloading.py): Script to create datasets and contain functions for simple dataloading
-- [cleaning_utils.py]((https://github.com/rlnrbio/WikipediaClassification/blob/main/cleaning_utils.py): Some functions to clean data used during dataloading
+- [cleaning_utils.py](https://github.com/rlnrbio/WikipediaClassification/blob/main/cleaning_utils.py): Some functions to clean data used during dataloading
 - [statistics.py](https://github.com/rlnrbio/WikipediaClassification/blob/main/statistics.py): Script to analyze data and data distribution, optional, not required for analysis
 - [textvectorization.py](https://github.com/rlnrbio/WikipediaClassification/blob/main/textvectorization.py): Script to create tf-idf text vectorizations of parsed and cleaned Wikipedia articles
 - [classifComp.py](https://github.com/rlnrbio/WikipediaClassification/blob/main/classifComp.py): Script to compare the performance of some of the most common classical ML classifiers on tf-idf data
